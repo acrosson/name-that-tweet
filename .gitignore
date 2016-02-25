@@ -70,4 +70,3 @@ target/
 
 # ignore config.py - where we store twitter api creds
 config.py
-data/
